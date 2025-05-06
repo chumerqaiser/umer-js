@@ -6,7 +6,7 @@ console.log(typeof (score));
 console.log(typeof score);
 let value = Number(score)
 console.log(typeof value);
-console.log(value);*/
+console.log(value);
 
 
 
@@ -18,7 +18,7 @@ console.log(value);*/
 let isLoggedIn = ""
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-  console.log(booleanIsLoggedIn);
+ // console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
 // "" => false
@@ -27,4 +27,16 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let num = 33
 let StringNumber = String(num)
 console.log(StringNumber);
-console.log(typeof StringNumber);
+console.log(typeof StringNumber);*/
+let value = 3
+let negvalue = -value
+console.log(negvalue);
+console.log(4**4);// ** is uesd for powers
+let str1 = "Hello my name is umer qaiser"
+let str2 = " i am study in class 10"
+let str3 = str1 + str2
+console.log(str3);
+console.log(+"")
+let gameCounter = 100
+gameCount = gameCounter+0;
+console.log(gameCount);
