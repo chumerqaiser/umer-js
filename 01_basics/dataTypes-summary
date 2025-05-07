@@ -18,5 +18,8 @@ const myfunction  = function(){
 }
 console.log(typeof myfunction);
 
-// stack memory is for primitive, heap is for non primitive or reference type
-
+             // stack memory is for primitive, heap is for non primitive or reference type
+            // primitive
+           // 7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
+          // non-primitive or reference type
+         // Array, Objects, Functions
