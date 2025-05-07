@@ -1,0 +1,19 @@
+ const value = 199
+ const sometemp = 190
+  console.log(value+sometemp);
+ let a;
+console.log(a); // undefined
+
+ let b = null;
+console.log(b); // null
+let userEmail = 998524598945626541651651651651651321651231516546546546554564654564654654n
+console.log(userEmail);
+const Id = Symbol('123')
+const anotherId = Symbol('123')
+console.log(Id == anotherId);
+console.log(typeof userEmail);
+console.log(typeof b);
+const myfunction  = function(){
+    console.log("Hello World!");
+}
+console.log(typeof myfunction);
