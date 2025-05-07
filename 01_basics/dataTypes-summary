@@ -17,3 +17,6 @@ const myfunction  = function(){
     console.log("Hello World!");
 }
 console.log(typeof myfunction);
+
+// stack memory is for primitive, heap is for non primitive or reference type
+
