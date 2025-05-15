@@ -1,34 +1,36 @@
-//const name ="Umer"
-//let myname = "Qaiser"
+ const name ="Umer"
+ let myname = "Qaiser"
  
-// console.log(fullname = name + myname );
-// console.log(`Hello my name is ${name} and my name is `)
-//  console.log(gameName[24]);   
-// // console.log(gameName.__proto__);
-
-//  console.log(gameName.length);
-//  console.log(gameName.toUpperCase());
-//  console.log(gameName.charAt(2));
-//  console.log(gameName.indexOf('t'));  
-//  console.log(gameName.__proto__);
-// console.log(gameName.length);
-// console.log(gameName.toLocaleLowerCase());
-// console.log(gameName.charAt(2));
-// console.log(gameName.indexOf('Q'));
-// console.log(gameName.lastIndexOf());
-// console.log(gameName.substring(0,9));
-//  const newstring = gameName.substring(9,0)
-//  console.log(newstring);
+ console.log(fullname = name + myname );
+console.log(`Hello my name is ${name} and my name is `)
 const gameName = new String('CHAUDHAR MUHAMMAD UMER QAISER');
+ console.log(gameName[24]);   
+ console.log(gameName.__proto__);
+
+console.log(gameName.length);
+ console.log(gameName.toUpperCase());
+  console.log(gameName.charAt(2));
+  console.log(gameName.indexOf('t'));  
+   console.log(gameName.__proto__);
+ console.log(gameName.length);
+  console.log(gameName.toLocaleLowerCase());
+  console.log(gameName.charAt(2));
+  console.log(gameName.indexOf('Q'));
+console.log(gameName.lastIndexOf());
+ console.log(gameName.substring(0,9));
+  const newstring = gameName.substring(9,0)
+   console.log(newstring);
+
   const anotherString = gameName.slice(-9,24)
-//  console.log(anotherString);
-// const username = "    umerqaiser123            0"
+ console.log(anotherString);
+//  const username = "    umerqaiser123            0"
 // console.log(username);
-// console.log(username.trim());
-//  const url = "https://tc39.es/ecma262/#sec-ecmascript-language-types-null-type"
-//  console.log(url.replace(`null-type`,` hello`));
-//  console.log(url.includes(`ecmascript`));
-//  console.log(url.split('-'));
-//  const username = "MUHAMMAD UMER QAISER"
-//  console.log(username.split('-'));
+//  console.log(username.trim());
+ const url = "https://tc39.es/ecma262/#sec-ecmascript-language-types-null-type"
+  console.log(url.replace(`null-type`,` hello`));
+  console.log(url.includes(`ecmascript`));
+console.log(url.split('-'));
+const username = "MUHAMMAD UMER QAISER"
+ console.log(username.split('-'));
+console.log(gameName.split('-'));
 console.log(gameName.split('-'));
