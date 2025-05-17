@@ -1,0 +1,13 @@
+// const score = String(123)
+// console.log(typeof score);
+// const num = new Number(33930)
+// console.log(num);
+// console.log(num.toString().length);
+// console.log(typeof num);
+// console.log(num.toFixed(3));
+// const vari = 32.891
+// console.log(vari.toPrecision(3))
+// const pol = 1000000
+// console.log(pol.toLocaleString(`en-IN`));
+//      MATHS
+console.log("PI");
