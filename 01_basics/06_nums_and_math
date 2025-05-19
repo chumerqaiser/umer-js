@@ -1,5 +1,5 @@
-// const score = String(123)
-// console.log(typeof score);
+const score = new Boolean(true)
+ console.log(score);
 // const num = new Number(33930)
 // console.log(num);
 // console.log(num.toString().length);
@@ -10,4 +10,4 @@
 // const pol = 1000000
 // console.log(pol.toLocaleString(`en-IN`));
 //      MATHS
-console.log("PI");
+//console.log("PI");
