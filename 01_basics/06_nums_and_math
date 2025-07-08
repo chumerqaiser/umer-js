@@ -1,13 +1,18 @@
 const score = new Boolean(true)
- console.log(score);
-// const num = new Number(33930)
-// console.log(num);
-// console.log(num.toString().length);
-// console.log(typeof num);
-// console.log(num.toFixed(3));
-// const vari = 32.891
-// console.log(vari.toPrecision(3))
-// const pol = 1000000
-// console.log(pol.toLocaleString(`en-IN`));
-//      MATHS
-//console.log("PI");
+  console.log(score);
+ const num = new Number(33930)
+  console.log(num);
+ console.log(num.toString().length);
+ console.log(typeof num);
+ console.log(num.toFixed(3));
+  const vari = 32.891
+ console.log(vari.toPrecision(3))
+ const pol = 1000000
+ console.log(pol.toLocaleString(`en-IN`));
+// //      MATHS
+ console.log(Math);
+ console.log(Math.SQRT2);
+ console.log(Math.round(230.735));
+ console.log(Math.abs(-7));
+ console.log(Math.min(1,2,3,4,5,6,99,4,0));
+console.log(Math.max(1,2,3,4,55,66,77,999999,9999999999,100000));
